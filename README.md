@@ -8,9 +8,9 @@ This is a standalone multilingual React application using `react-i18next` for in
 
  1. Clone the repository
 
-git clone https://github.com/your-username/i18n-app.git
+git clone https://github.com/Parthav-Nair/i18n-React-App.git
 
-cd i18n-app
+cd i18n-React-App
 
  2. Install dependencies
 
